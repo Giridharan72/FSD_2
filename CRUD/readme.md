@@ -7,7 +7,8 @@ This is a CRUD (Create, Read, Update, Delete) demo application built using React
 This CRUD demo application is built using React.js, a popular JavaScript library for building user interfaces. It demonstrates how to perform CRUD operations (Create, Read, Update, Delete) on a list of users using React Router for navigation and Axios for making HTTP requests.
 
 
-# Visit {https://fsd-2-giridharans-projects.vercel.app/} in your web browser to view the application.
+# Click [here](https://fsd-2-giridharans-projects.vercel.app/) to visit the application.
+
 
 # Components
 The main components used in this application are:
